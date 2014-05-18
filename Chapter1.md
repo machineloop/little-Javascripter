@@ -1,6 +1,6 @@
 #Toys
 
-<table width="100%">
+<table>
 
 <tr>
 <td>
@@ -11,24 +11,46 @@
 </td>
 </tr>
 
-
 <tr>
 <td>
-col 3 is  here and the longer I go, I can't reflow, can we? Yes we can! Yay, we can reflow!!
+................................................................................................................................................................................................
 </td>
 <td>
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-</td>
+................................................................................................
 </tr>
 
 
 <tr>
 <td>
+Is it true that this is a String? <br/>
+&nbsp;&nbsp;&nbsp; `string`
+</td>
+<td>
+Yes, <br/>
+&nbsp;&nbsp;&nbsp; because `string` is a chain of zero or more characters
+&nbsp;&nbsp;&nbsp; beginning with the letter `a`.
+</td>
+</tr>
+
+<tr>
+<td>
 ................................................................................................
 </td>
 <td>
 ................................................................................................
+</tr>
+
+<tr>
+<td>
+Is it true that this is a String?
+</td>
+<td>
+Hello <br/>
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+alert(s);
+alert(s);
+```
+</td>
 </tr>

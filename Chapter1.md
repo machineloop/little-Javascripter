@@ -4,10 +4,10 @@
 
 <tr>
 <td>
-### Question
+#### Question
 </td>
 <td>
-### Answer
+#### Answer
 </td>
 </tr>
 
@@ -27,30 +27,40 @@ Is it true that this is a String? <br/>
 </td>
 <td>
 Yes, <br/>
-&nbsp;&nbsp;&nbsp; because `string` is a chain of zero or more characters
-&nbsp;&nbsp;&nbsp; beginning with the letter `a`.
+&nbsp;&nbsp;&nbsp; because `string` is a chain of zero or more <br />
+&nbsp;&nbsp;&nbsp; characters beginning with the letter `a`.
 </td>
 </tr>
 
-<tr>
-<td>
-................................................................................................
-</td>
-<td>
-................................................................................................
-</tr>
 
-<tr>
-<td>
-Is it true that this is a String?
-</td>
-<td>
-Hello <br/>
+<table> <tr><td></td><td></td></tr><tr><td>
+...............................................................................................................................................................................................................</td><td>
+................................................................................................</tr>
+
+
+<tr><td>
+Is it true that this is a String? <br/>
+&nbsp;&nbsp;&nbsp; `string`
+</td><td>
+Yes, <br/>
+&nbsp;&nbsp;&nbsp; because `string` is a chain of zero or more <br />
+&nbsp;&nbsp;&nbsp; characters beginning with the letter `a`.
+</td></tr>
+
+<table> <tr><td></td><td></td></tr><tr><td>
+...............................................................................................................................................................................................................</td><td>
+................................................................................................</tr>
+
+
+<tr><td>
+Is it true that this is a String? <br/>
+&nbsp;&nbsp;&nbsp; `string`
+</td><td>
+Yes,  <br/>
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 alert(s);
 alert(s);
 ```
-</td>
-</tr>
+</td></tr>

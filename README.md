@@ -1,4 +1,4 @@
-little-Javascripter
+Little Javascripter
 ===================
 
-The little schemer written in Q and A format for JS
+The Little Schemer by Daniel P. Friedman written in Q&A format to teach recursion with Javascript functions.
